@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1557473640918814760">
+  <img src="./-wallpaper.gif" alt="Animated Banner" width="100%">
 </p>
